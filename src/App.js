@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Smun-React
+          Learn How to be Smun
         </a>
       </header>
     </div>
