@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './smun.png';
+import logo from './image2vector.svg';
 import './App.css';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn How to be Smun
+          Learn How to be Smun 2
         </a>
       </header>
     </div>
