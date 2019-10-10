@@ -7,4 +7,3 @@ services:
 
 script:
   - docker run palmcesco/docker-react npm run test -- --coverage
-  
