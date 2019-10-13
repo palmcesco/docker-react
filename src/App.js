@@ -1,5 +1,7 @@
 import React from 'react';
 import logo from './smun.png';
+
+
 import './App.css';
 
 function App() {
@@ -16,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn How to be Smun 2
+          This is in Real Production.
         </a>
       </header>
     </div>
